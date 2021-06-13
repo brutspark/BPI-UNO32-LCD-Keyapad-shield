@@ -1,1 +1,1 @@
-# BPI-UNO32-LCD-Keyapad-shield
+# BPI-UNO32-LCD-Keypad-shield
